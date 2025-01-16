@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../PageWeb"
+		},
+		{
+			"path": "../../List-Links-"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PageWeb"
+	}
+}
